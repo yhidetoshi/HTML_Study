@@ -1,4 +1,6 @@
-# study_html
+![Alt Text](https://github.com/yhidetoshi/Pictures/raw/master/HTML_Study/html-icon.jpeg)
+===
+### study_html
 
 - タグの説明(1) セクション
 - タグの説明(2) Table
